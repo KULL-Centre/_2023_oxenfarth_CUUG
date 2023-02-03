@@ -1,0 +1,38 @@
+DATA SEQUENCE GGCAGCUUGCUGCC
+
+
+VARS   	RESID_I 	RESNAME_I 	ATOMNAME_I 	RESID_J 	RESNAME_J 	ATOMNAME_J 	D      	DD    	W
+FORMAT 	%5d     	%6s       	%6s        	%5d     	%6s       	%6s    		%9.3f   %9.3f 	%.2f
+
+		3			CYT			C5			3			CYT			H5			-9.77	1.000	1.00		
+		6			CYT			C5			6			CYT			H5			-8.53	1.000	1.00
+		7			URI			C5			7			URI			H5			-10.11	1.000	1.00
+		8			URI			C5			8			URI			H5			2.63	1.000	1.00
+		10			CYT			C5			10			CYT			H5			2.92	1.000	1.00
+		11			URI			C5			11			URI			H5			-6.85	1.000	1.00
+		13			CYT			C5			13			CYT			H5			-15.5	1.000	1.00
+        1           GUA         C1'         1           GUA         H1'         7.66    1.000   1.00
+        2			GUA			C1'			2			GUA			H1'			6.61	1.000	1.00
+		3			CYT			C1'			3			CYT			H1'			-5.35	1.000	1.00
+		4			ADE			C1'			4			ADE			H1'			-10.54	1.000	1.00
+		5			GUA			C1'			5			GUA			H1'			-16.34	1.000	1.00
+		6			CYT			C1'			6			CYT			H1'			-12.89	1.000	1.00
+		7			URI			C1'			7			URI			H1'			-11.6	1.000	1.00
+		9			GUA			C1'			9			GUA			H1'			-11.18	1.000	1.00
+		10			CYT			C1'			10			CYT			H1'			17.5	1.000	1.00
+		11			URI			C1'			11			URI			H1'			6.00	1.000	1.00
+		12			GUA			C1'			12			GUA			H1'			-2.42	1.000	1.00
+		13			CYT			C1'			13			CYT			H1'			-13.14	1.000	1.00
+		2			GUA			C8			2			GUA			H8			-5.61	1.000	1.00
+		3			CYT			C6			3			CYT			H6			-7.19	1.000	1.00
+		4			ADE			C8			4			ADE			H8			-9.59	1.000	1.00
+		5			GUA			C8			5			GUA			H8			-16.00	1.000	1.00
+		7			URI			C6			7			URI			H6			8.80	1.000	1.00
+		8			URI			C6			8			URI			H6			0.81	1.000	1.00	
+		9			GUA			C8			9			GUA			H8			-5.24	1.000	1.00
+		10			CYT			C6			10			CYT			H6			-14.41	1.000	1.00
+		11			URI			C6			11			URI			H6			-14.4	1.000	1.00
+		12			GUA			C8			12			GUA			H8			-13.6	1.000	1.00
+		13			CYT			C6			13			CYT			H6			-8.00	1.000	1.00
+  
+  

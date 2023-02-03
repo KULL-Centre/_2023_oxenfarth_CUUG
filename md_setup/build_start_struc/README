@@ -1,0 +1,2 @@
+Scripts and data used to create the starting structures for the MD simulations. If used, make sure to manually check
+each generated full structure (helix + loop) for clashes etc.
